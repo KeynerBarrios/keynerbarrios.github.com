@@ -79,7 +79,7 @@ links.forEach(function(link){
         //setInterval constantemente
 
         setTimeout(function(){
-            location.href = "/";
+            location.href = "/boletines";
         },600);
 
         
